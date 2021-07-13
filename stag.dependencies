@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "RMX1805/vendor_oppo",
+    "target_path": "vendor/oppo",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  }
+]
