@@ -1,6 +1,6 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_RMX1805.mk
+    $(LOCAL_DIR)/aosp_RMX1805.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_RMX1805-userdebug \
-    stag_RMX1805-eng
+    aosp_RMX1805-userdebug \
+    aosp_RMX1805-eng
